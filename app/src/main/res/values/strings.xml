@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ConversorMoedas</string>
+    <string name="conversor_moedas">Conversor Moedas</string>
+    <string name="qual_o_valor_em_real">Qual o valor em Real?</string>
+    <string name="valor_em_d_lar">Valor em Dólar</string>
+    <string name="valor_em_bit">Valor em Bitcoin</string>
+    <string name="valor_em_xrp">Valor em XRP</string>
+    <string name="converter">Converter</string>
+    <string name="invalid_value">Valor inválido!</string>
+    <string name="rs">R$</string>
+</resources>
